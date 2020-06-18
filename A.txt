@@ -1,3 +1,4 @@
 Quick FIX A
+Change of the legacy
 
 BUG 101 Fix A!
