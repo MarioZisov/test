@@ -7,3 +7,6 @@ Massive changes on A
 
 bug 34:
 apply fix
+
+bug 37:
+apply fix
