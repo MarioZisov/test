@@ -8,5 +8,8 @@ Massive changes on A
 bug 34:
 apply fix
 
+rc-1.0:
+some version based changes
+
 bug 37:
 apply fix
